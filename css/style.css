@@ -1,0 +1,15 @@
+.hero-bg {
+    background-image: url(../images/slider1-1.png);
+    background-repeat: no-repeat;
+    background-position: 70% 100%;
+    background-size: cover;
+}
+.Vitamins {
+    font-size: 3.5em;
+}
+.gallery-footer {
+    height: 6em;
+}
+.media {
+    height: 2.5em;
+}
